@@ -1,5 +1,5 @@
 # M3_Wiper-Control-System
-An ARM based basic Wiper control system project
+An ARM Microcontroller based basic Wiper control system project
 
 ## Folder Structure
 | Folder | Description |
